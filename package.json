@@ -1,0 +1,22 @@
+{
+  "name": "nodecms",
+  "version": "1.0.0",
+  "description": "A Content Managment System done in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeplus254/nodeCMS.git"
+  },
+  "keywords": [
+    "CMS"
+  ],
+  "author": "codeplus254",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeplus254/nodeCMS/issues"
+  },
+  "homepage": "https://github.com/codeplus254/nodeCMS#readme"
+}
